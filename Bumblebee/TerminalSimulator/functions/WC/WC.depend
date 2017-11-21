@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1481310961 source:/home/cristi/Desktop/Terminal/WC/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<fcntl.h>
+
+1481315174 source:/home/dana/scripts/ls_wc/WC/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<fcntl.h>
+
+1481618848 source:/home/dana/scripts/TerminalSimulator/functions/WC/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<fcntl.h>
+

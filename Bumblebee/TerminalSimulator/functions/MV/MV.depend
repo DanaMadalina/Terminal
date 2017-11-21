@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1481385112 source:/home/cristi/Desktop/Terminal/MV/main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<dirent.h>
+	<sys/stat.h>
+
+1481617438 source:/home/dana/scripts/TerminalSimulator/functions/MV/main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<dirent.h>
+	<sys/stat.h>
+

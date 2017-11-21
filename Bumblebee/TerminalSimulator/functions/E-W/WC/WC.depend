@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1481640663 source:/home/cristi/Desktop/Terminal/WC/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<fcntl.h>
+

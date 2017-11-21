@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1481471376 source:/home/cristi/Desktop/Terminal/Touch/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1481615853 source:/home/dana/scripts/TerminalSimulator/functions/Touch/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

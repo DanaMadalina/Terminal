@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1481641941 source:/home/dana/scripts/TerminalSimulator/functions/Functions/main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"sys/types.h"
+	"unistd.h"
+	<fcntl.h>
+	"Functions.h"
+	"function_ls.h"
+	"function_touch.h"
+	"function_rm.h"
+	"function_mkdir.h"
+	"function_mv.h"
+	"function_wc.h"
+	"function_echo.h"
+
+1481552205 /home/dana/scripts/TerminalSimulator/functions/Functions/Functions.h
+
+1481450309 /home/dana/scripts/TerminalSimulator/functions/ls/function_ls.h
+
+1481616130 /home/dana/scripts/TerminalSimulator/functions/WC/function_wc.h
+
+1481615859 /home/dana/scripts/TerminalSimulator/functions/Touch/function_touch.h
+
+1481616612 /home/dana/scripts/TerminalSimulator/functions/RM/function_rm.h
+
+1481617249 /home/dana/scripts/TerminalSimulator/functions/MkDir/function_mkdir.h
+
+1481617458 /home/dana/scripts/TerminalSimulator/functions/MV/function_mv.h
+
+1481641570 /home/dana/scripts/TerminalSimulator/functions/Echo/function_echo.h
+

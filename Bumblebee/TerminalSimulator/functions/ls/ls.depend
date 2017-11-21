@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1481586993 source:/home/dana/scripts/TerminalSimulator/functions/ls/main.c
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<dirent.h>
+	<string.h>
+	<limits.h>
+

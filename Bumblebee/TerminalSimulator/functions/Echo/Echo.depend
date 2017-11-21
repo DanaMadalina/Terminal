@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1481640242 source:/home/cristi/Desktop/Terminal/Echo/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1481642178 source:/home/dana/scripts/TerminalSimulator/functions/Echo/main.c
+	<stdio.h>
+	<stdlib.h>
+

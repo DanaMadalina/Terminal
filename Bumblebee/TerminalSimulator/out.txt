@@ -1,0 +1,15 @@
+executing LS! 
+838847 obj 
+845698 TerminalSimulator.cbp 
+1068074 director 
+832879 in.txt 
+838840 pipe.out 
+917712 functiwons 
+839068 TerminalSimulator.depend 
+845696 main.c 
+845679 TerminalSimulator.layout 
+839052 bin 
+845699 aka.txt 
+839349 out.txt 
+executing LS! 
+obj TerminalSimulator.cbp director in.txt pipe.out functions TerminalSimulator.depend main.c TerminalSimulator.layout dir1 bin aka.txt out.txt 

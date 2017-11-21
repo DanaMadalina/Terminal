@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="TerminalSimulator" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/TerminalSimulator" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="functions/WC" />
+					<Add directory="functions/ls" />
+					<Add directory="functions/Touch" />
+					<Add directory="functions/RM" />
+					<Add directory="functions/MkDir" />
+					<Add directory="functions/MV" />
+					<Add directory="functions/Functions" />
+					<Add directory="functions/Echo" />
+				</Compiler>
+				<Linker>
+					<Add library="functions/Functions/bin/Debug/libFunctions.a" />
+					<Add library="functions/ls/bin/Debug/libls.a" />
+					<Add library="functions/WC/bin/Debug/libWC.a" />
+					<Add library="functions/Touch/bin/Debug/libTouch.a" />
+					<Add library="functions/RM/bin/Debug/libRM.a" />
+					<Add library="functions/MkDir/bin/Debug/libMkDir.a" />
+					<Add library="functions/MV/bin/Debug/libMV.a" />
+					<Add library="functions/Echo/bin/Debug/libEcho.a" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/TerminalSimulator" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="functions/ls" />
+		</Compiler>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
